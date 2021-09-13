@@ -19,7 +19,7 @@ COLGATE-PALMOLIVE COMPANY
 :94B::PLIS//PRIM/UNITED STATES
 :16S:FIA
 :16R:ACCTINFO
-:97A::SAFE//901901370691
+:97A::SAFE//000000000000
 :93B::ELIG//UNIT/2279,
 :93B::SETT//UNIT/2279,
 :16S:ACCTINFO
@@ -65,7 +65,7 @@ NUMBER OF BENEFICIAL HOLDERS, NAME
 OF THE FIRM, REGISTERED BROKER,
 ADDRESS, AND TELEPHONE NUMBER. TO
 TENDER, HOLDERS MUST SUBMIT AN
-UNSOLICITED INSTRUCTION TO SWEDBANK
+UNSOLICITED INSTRUCTION TO XXXX
 REFERENCING THE TRADE ID, CUSIP,
 :70E::ADTX//FUND NUMBER AND SHARES TO BE 
 TENDERED. 
@@ -145,7 +145,7 @@ DISCRETION.
 .
 ONLY HOLDERS WHO WISH TO
 PARTICIPATE IN THE OFFER SHOULD
-SEND A RESPONSE TO SWEDBANK.
+SEND A RESPONSE TO xxxx.
 HOLDERS WISHING TO TAKE NO ACTION
 :70E::ADTX//NEED NOT INSTRUCT US. ALL 
 INSTRUCTIONS MUST BE SUBMITTED TO 
@@ -187,12 +187,12 @@ INSTRUCTED TO TAKE NO ACTION.
 :16S:ADDINFO
 -}
 
-For enquiries:   +(46) 8 58590884
-E-mail:               coacs@swedbank.se
+For enquiries:   +(46) 0 00000000
+E-mail:               coacs@xxxx.se
 
 Regards
 
-SWEDBANK
+xxxx
 Corporate Actions
 
-The information in this document has been compiled by Swedbank on a best effort basis from sources believed to be reliable. We accept no responsibility, however, for that the information is correct or complete or for that the issuer of the information will change the information at a later stage. We do not accept any liability whatsoever for any direct or consequential loss or injury of any kind arising from the use of this document. Swedbank AB (publ), Stockholm 2021.
+The information in this document has been compiled by xxx on a best effort basis from sources believed to be reliable. We accept no responsibility, however, for that the information is correct or complete or for that the issuer of the information will change the information at a later stage. We do not accept any liability whatsoever for any direct or consequential loss or injury of any kind arising from the use of this document. xxxx AB (publ), Stockholm 2021.
