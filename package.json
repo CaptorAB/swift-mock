@@ -1,5 +1,9 @@
 {
   "name": "@captor/swift-mock",
+  "private": false,
+  "publishConfig": {
+    "access": "public"
+  },
   "version": "0.1.0",
   "description": "SWIFT mock that emulates SWIFT network, parse and generate SWIFT ISO 15022 messages.",
   "scripts": {
@@ -7,10 +11,10 @@
     "lint": "eslint ."
   },
   "dependencies": {
-      "pegjs": "^0.10.0",
-      "chokidar": "^3",
-      "lodash": "^4",
-      "moment": "^2"
+    "pegjs": "^0.10.0",
+    "chokidar": "^3",
+    "lodash": "^4",
+    "moment": "^2"
   },
   "devDependencies": {
     "eslint": "^5.16.0",
