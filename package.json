@@ -4,7 +4,7 @@
   "publishConfig": {
     "access": "public"
   },
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "SWIFT mock that emulates SWIFT network, parse and generate SWIFT ISO 15022 messages.",
   "scripts": {
     "test": "mocha \"tests/**/*.test.js\"",

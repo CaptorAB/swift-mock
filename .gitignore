@@ -7,4 +7,4 @@ examples/out/
 node_modules/
 .DS_Store
 *.iml
-captor-swift-mock-0.1.0.tgz
+captor-swift-mock-*.tgz
