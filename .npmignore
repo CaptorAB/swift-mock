@@ -10,3 +10,6 @@ node_modules/*
 .eslintignore
 .eslintrc
 .gitignore
+.vscode
+.travis.yml
+examples
