@@ -13,3 +13,4 @@ node_modules/*
 .vscode
 .travis.yml
 examples
+captor-swift-mock-*.tgz

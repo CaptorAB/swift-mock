@@ -17,13 +17,13 @@ JavaScript SWIFT mock that can emulate SWIFT network, parse and generate SWIFT [
 ## Installation
 
 ```Shell
-$ npm install --save swift-mock
+$ npm install --save @captor/swift-mock
 ```
 
 ## Usage
 
 ```JavaScript
-const Swift = require('swift-mock');
+const Swift = require('@captor/swift-mock');
 
 const swift = new Swift();
 
