@@ -10,3 +10,7 @@ node_modules/*
 .eslintignore
 .eslintrc
 .gitignore
+.vscode
+.travis.yml
+examples
+captor-swift-mock-*.tgz

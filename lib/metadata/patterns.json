@@ -389,11 +389,11 @@
   },
   "69A": {
     "pattern": ":4!c//8!n/8!n",
-    "fieldNames": "(Qualifier)(Date)(Date)"
+    "fieldNames": "(Qualifier)(Date 1)(Date)"
   },
   "69B": {
     "pattern": ":4!c//8!n6!n/8!n6!n",
-    "fieldNames": "(Qualifier)(Date)(Time)(Date)(Time)"
+    "fieldNames": "(Qualifier)(Date 1)(Time 1)(Date)(Time)"
   },
   "69C": {
     "pattern": ":4!c//8!n/4!c",
@@ -457,7 +457,7 @@
   },
   "77E": {
     "pattern": "73x$[n*78x]",
-    "fieldNames": "(Text)$(Text)"
+    "fieldNames": "(Text1)$(Text)"
   },
   "80C": {
     "pattern": "6*35x",
@@ -465,7 +465,7 @@
   },
   "82J": {
     "pattern": "5*40x",
-    "fieldNames":  "(Party Identification)"
+    "fieldNames": "(Party Identification)"
   },
   "83A": {
     "pattern": "[/1!a][/34x]$4!a2!a2!c[3!c]",
@@ -509,7 +509,7 @@
   },
   "90J": {
     "pattern": ":4!c//4!c/3!a15d/3!a15d",
-    "fieldNames": "(Qualifier)(Amount Type Code)(Currency Code)(Amount)(Currency Code)(Amount)"
+    "fieldNames": "(Qualifier)(Amount Type Code)(Currency Code 1)(Amount 1)(Currency Code)(Amount)"
   },
   "90K": {
     "pattern": ":4!c//15d",
@@ -533,7 +533,7 @@
   },
   "92D": {
     "pattern": ":4!c//15d/15d",
-    "fieldNames": "(Qualifier)(Quantity)(Quantity)"
+    "fieldNames": "(Qualifier)(Quantity 1)(Quantity)"
   },
   "92F": {
     "pattern": ":4!c//3!a15d",
@@ -549,7 +549,7 @@
   },
   "92L": {
     "pattern": ":4!c//3!a15d/3!a15d",
-    "fieldNames": "(Qualifier)(First Currency Code)(Amount)(Second Currency Code)(Amount)"
+    "fieldNames": "(Qualifier)(First Currency Code)(Amount 1)(Second Currency Code)(Amount)"
   },
   "92M": {
     "pattern": ":4!c//3!a15d/15d",

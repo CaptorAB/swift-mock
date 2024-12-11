@@ -1,0 +1,18 @@
+{
+  "cSpell.words": [],
+  "editor.formatOnSave": true,
+  "explorer.autoRevealExclude": {
+    "**/node_modules": false
+  },
+  "git.openRepositoryInParentFolders": "always",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
+}
